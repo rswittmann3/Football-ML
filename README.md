@@ -1,2 +1,2 @@
 # Football Machine Learning Project
-Football Analysis system utilizing machine learning, computer vision, and deep learning through YOLO, OpenCV, and Python following [this tutorial](youtube.com/watch?v=neBZ6huolkg). 
+Football analysis system through machine learning, computer vision, and deep learning utilizing YOLO, OpenCV, and Python following [this tutorial](youtube.com/watch?v=neBZ6huolkg). 
